@@ -199,7 +199,7 @@ drwxr-xr-x  guddu2005/projects/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guddu_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guddu-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guddu_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guddu-664850287/)
 [![Instagram](https://img.shields.io/badge/Instagram-kl__guddu__433-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kl_guddu_433)
 [![Facebook](https://img.shields.io/badge/Facebook-kl_guddu_kumar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kl%20guddu%20kumar)
 [![Gmail](https://img.shields.io/badge/Gmail-reachguddu.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachguddu.dev@gmail.com)
