@@ -169,8 +169,7 @@
 [![Guddu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guddu2005&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-### 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/guddu2005/guddu2005/output/github-snake-dark.svg" />
