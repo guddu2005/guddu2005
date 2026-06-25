@@ -132,7 +132,7 @@
 
 </div>
 
-> 💡 **Strategy:** Solve 2–3 LeetCode problems daily. Focus on patterns, not memorization.
+
 
 ---
 
